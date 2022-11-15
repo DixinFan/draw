@@ -1,4 +1,4 @@
-<mxfile modified="2022-11-15T11:42:20.626Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="39XutpLrdLZowu2I9D-D" version="20.5.3" type="github">
+<mxfile modified="2022-11-15T11:55:02.152Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-oboniFmb4XJmZ16x70a" version="20.5.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="869" dy="-649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -531,6 +531,30 @@
         </mxCell>
         <mxCell id="lT2CSq7eGdLM_32b_8D1-59" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.location_service_track;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="1680" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="lT2CSq7eGdLM_32b_8D1-65" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;dashed=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1360" width="130" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="lT2CSq7eGdLM_32b_8D1-66" value="HTTPS&#xa;Load Balancer" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.network_load_balancer;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="lT2CSq7eGdLM_32b_8D1-65">
+          <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lT2CSq7eGdLM_32b_8D1-67" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;dashed=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="547" y="1360" width="100" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="lT2CSq7eGdLM_32b_8D1-68" value="Logs API" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.logs_api;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="lT2CSq7eGdLM_32b_8D1-67">
+          <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lT2CSq7eGdLM_32b_8D1-69" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;dashed=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="392" y="1420" width="110" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="lT2CSq7eGdLM_32b_8D1-70" value="Memcache" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.memcache;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;labelBackgroundColor=none;fontColor=#000000;" vertex="1" parent="lT2CSq7eGdLM_32b_8D1-69">
+          <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
