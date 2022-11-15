@@ -1,4 +1,4 @@
-<mxfile modified="2022-11-14T13:10:48.566Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DVnWUjHjAmuyN7GH6k_Q" version="20.5.3" type="github">
+<mxfile modified="2022-11-15T01:49:18.045Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5G1IanW9xITeB8JqH6Tf" version="20.5.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1117" dy="-500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -458,6 +458,9 @@
         </mxCell>
         <mxCell id="lT2CSq7eGdLM_32b_8D1-8" value="mobile" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="167" y="1440" width="40.5" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="lT2CSq7eGdLM_32b_8D1-11" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="162" y="1560" width="42.599999999999994" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
