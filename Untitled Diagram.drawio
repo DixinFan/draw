@@ -1,4 +1,4 @@
-<mxfile modified="2022-11-16T02:28:30.823Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="--eW47yqodvSaxs2FqWj" version="20.5.3" type="github">
+<mxfile modified="2022-11-16T02:30:29.700Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="rt1DYaYPYsRfhjrzUjd6" version="20.5.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="652" dy="-826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -570,7 +570,7 @@
         <mxCell id="MmMTeVmZbDbu7pug85OJ-10" value="" style="editableCssRules=.*;fontColor=#999999;shape=image;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;verticalAlign=middle;labelPosition=right;align=left;spacingLeft=20;part=1;points=[];imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjE1LjcyMyIgaGVpZ2h0PSIxOS45ODYiIHZpZXdCb3g9IjAgMCAxNS43MjMgMTkuOTg2Ij4mI3hhOwk8cGF0aCBkPSJNMy42MzQgMTQuNTg2di0zLjc1YzAtLjE1LS4yOS0uMzQtLjQ5LS40M2E1LjQ2IDUuNDYgMCAxIDEgNy40NC02LjgzIDUuNCA1LjQgMCAwIDEtMi43MyA2Ljc5LjgyLjgyIDAgMCAwLS41NC45djguNzJoLTMuNjh2LTEuNzVILjAyNHYtMy42NXptMy42NC05LjExYTEuODIgMS44MiAwIDEgMC0zLjY0LS4wNiAxLjgzIDEuODMgMCAwIDAgMS44IDEuODVoMGExLjg0IDEuODQgMCAwIDAgMS44My0xLjc5eiIgZmlsbD0iIzQyODVmNCIvPiYjeGE7CTxwYXRoIGQ9Ik0xNS4zNzQgMy41NzZhNS40NCA1LjQ0IDAgMCAwLTYuMzItMy40NCA1LjQ0IDUuNDQgMCAwIDEgMS4xMyAxMC4yMy44NC44NCAwIDAgMC0uNTUuOXY4LjcyaDIuNDN2LTguNzFhLjgzLjgzIDAgMCAxIC41NS0uOSA1LjQgNS40IDAgMCAwIDIuNzYtNi44eiIgZmlsbD0iIzY2OWRmNiIvPiYjeGE7PC9zdmc+;dashed=1;fontSize=12;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="544" y="1430" width="24" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MmMTeVmZbDbu7pug85OJ-11" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MmMTeVmZbDbu7pug85OJ-11" value="Encryption" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="575" y="1428" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MmMTeVmZbDbu7pug85OJ-12" value="" style="fillColor=#999999;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.standardized_system_images;" vertex="1" parent="1">
@@ -582,14 +582,6 @@
         <mxCell id="MmMTeVmZbDbu7pug85OJ-16" value="Blank One Line" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.blank;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="MmMTeVmZbDbu7pug85OJ-15">
           <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
             <mxPoint x="5" y="-16" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MmMTeVmZbDbu7pug85OJ-17" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
-          <mxGeometry x="498" y="1498" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MmMTeVmZbDbu7pug85OJ-18" value="Security Key&#xa;Enforcement" style="editableCssRules=.*;fontColor=#999999;shape=image;verticalLabelPosition=middle;labelBackgroundColor=#ffffff;verticalAlign=middle;labelPosition=right;align=left;spacingLeft=20;part=1;points=[];imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjE1LjcyMyIgaGVpZ2h0PSIxOS45ODYiIHZpZXdCb3g9IjAgMCAxNS43MjMgMTkuOTg2Ij4mI3hhOwk8cGF0aCBkPSJNMy42MzQgMTQuNTg2di0zLjc1YzAtLjE1LS4yOS0uMzQtLjQ5LS40M2E1LjQ2IDUuNDYgMCAxIDEgNy40NC02LjgzIDUuNCA1LjQgMCAwIDEtMi43MyA2Ljc5LjgyLjgyIDAgMCAwLS41NC45djguNzJoLTMuNjh2LTEuNzVILjAyNHYtMy42NXptMy42NC05LjExYTEuODIgMS44MiAwIDEgMC0zLjY0LS4wNiAxLjgzIDEuODMgMCAwIDAgMS44IDEuODVoMGExLjg0IDEuODQgMCAwIDAgMS44My0xLjc5eiIgZmlsbD0iIzQyODVmNCIvPiYjeGE7CTxwYXRoIGQ9Ik0xNS4zNzQgMy41NzZhNS40NCA1LjQ0IDAgMCAwLTYuMzItMy40NCA1LjQ0IDUuNDQgMCAwIDEgMS4xMyAxMC4yMy44NC44NCAwIDAgMC0uNTUuOXY4LjcyaDIuNDN2LTguNzFhLjgzLjgzIDAgMCAxIC41NS0uOSA1LjQgNS40IDAgMCAwIDIuNzYtNi44eiIgZmlsbD0iIzY2OWRmNiIvPiYjeGE7PC9zdmc+;" vertex="1" parent="MmMTeVmZbDbu7pug85OJ-17">
-          <mxGeometry width="24" height="30" relative="1" as="geometry">
-            <mxPoint x="18" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
